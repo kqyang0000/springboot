@@ -1,0 +1,8 @@
+# 配置服务端口
+server:
+  port: 8080
+# 配置根路径 默认 /
+server.servlet.context-path: /springboot
+student:
+  name: yimao
+  age: 30
